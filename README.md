@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rohan!
 - 👀 I’m interested in Mathematics, Machine Learning, and AI
 - 🌱 I’m currently learning math, coding, etc.
-- 💞️ I’m looking to collaborate on any cool projects
+- 🤝 I’m looking to collaborate on any cool projects
 - 📫 How to reach me rgogate@unc.edu
 
 <!---
